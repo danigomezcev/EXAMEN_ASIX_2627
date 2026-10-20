@@ -1,8 +1,8 @@
 
-Profesor
-Dani Gómez
+# Profesor
+ - Dani Gómez
 
-Alumnos
+# Alumnos
 - 
 - 
 - 
