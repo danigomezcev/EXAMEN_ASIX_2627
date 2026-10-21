@@ -1,9 +1,17 @@
+
+Archivote_MiquelBoquera filter=lfs diff=lfs merge=lfs -text
 Archivote_AlexSauret filter=lfs diff=lfs merge=lfs -text
 Archivote_AlexMartinez filter=lfs diff=lfs merge=lfs -text
-C:/Users/AlumnoM/Downloads/ArchivoteMiguelPerez filter=lfs diff=lfs merge=lfs -text
-C:/Users/AlumnoM/Downloads/Archivote_alejandromontilla filter=lfs diff=lfs merge=lfs -text
 Archivote_IreneCapilla filter=lfs diff=lfs merge=lfs -text
 VictorRodriguez filter=lfs diff=lfs merge=lfs -text
 ArchivoteMiguelPerez filter=lfs diff=lfs merge=lfs -text
 Archivote_MarcOrtola filter=lfs diff=lfs merge=lfs -text
 Archivote_JanetCambrónMartín filter=lfs diff=lfs merge=lfs -text
+Archivote_JanGonzalez filter=lfs diff=lfs merge=lfs -text
+Archivote_IreneCapilla filter=lfs diff=lfs merge=lfs -text
+VictorRodriguez filter=lfs diff=lfs merge=lfs -text
+ArchivoteMiguelPerez filter=lfs diff=lfs merge=lfs -text
+Archivote_JanetCambrónMartín filter=lfs diff=lfs merge=lfs -text
+Archivote_IreneCapilla filter=lfs diff=lfs merge=lfs -text
+VictorRodriguez filter=lfs diff=lfs merge=lfs -text
+ArchivoteMiguelPerez filter=lfs diff=lfs merge=lfs -text
